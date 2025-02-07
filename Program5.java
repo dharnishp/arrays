@@ -1,3 +1,7 @@
+/*
+Write a Java program to remove duplicates from an array.
+
+*/
 package com.dharnish.arrays;
 
 import java.util.LinkedHashSet;
