@@ -1,4 +1,4 @@
-package arrayInterviewQuestions;
+package com.dharnish.arrays;
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;
