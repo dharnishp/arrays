@@ -1,7 +1,10 @@
-package arrayInterviewQuestions;
+/*
+Write A Java Program to find the largest and smallest number in an unsorted integer array? 
+*/
+
+package com.dharnish.arrays;
 
 import java.util.Scanner;
-
 public class Program7 
 {
 	public static void main(String[] args) 
