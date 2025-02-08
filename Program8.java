@@ -1,5 +1,8 @@
-package arrayInterviewQuestions;
+/*
+Write A Java Program to find duplicate numbers in an array if it contains multiple duplicates?
+*/
 
+package com.dharnish.arrays;
 import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.Set;
