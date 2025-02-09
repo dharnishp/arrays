@@ -1,9 +1,11 @@
-package arrayInterviewQuestions;
+/*
+Write A Java Program to find the duplicate number on a given integer array?
+*/
 
+package com.dharnish.arrays;
 import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.Set;
-
 public class Program9 
 {
 	public static void main(String[] args) 
