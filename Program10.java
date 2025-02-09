@@ -1,7 +1,9 @@
-package arrayInterviewQuestions;
+/*
+Write A Java Program sort Array elements in Ascending & Descending Order without using built in methods?
+*/
 
+package com.dharnish.arrays;
 import java.util.Scanner;
-
 public class Program10 
 {
 	public static void main(String[] args) 
