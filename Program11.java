@@ -1,13 +1,12 @@
 /*
  * Write A Java Program to  find all pairs of an integer array whose sum is equal to a given number? 
  */
-package arrayInterviewQuestions;
+
+package com.dharnish.arrays;
 
 import java.util.Scanner;
-
 public class Program11 
 {
-
 	public static void main(String[] args) 
 	{
 		Scanner scn=new Scanner(System.in);
