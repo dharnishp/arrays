@@ -1,3 +1,6 @@
+/*
+Write A Java Program to count the number of occurrence of an element in An array?
+*/
 
 package com.dharnish.arrays;
 
@@ -5,7 +8,7 @@ import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Program13 
+public class Program12
 {
 	public static void main(String[] args) 
 	{
