@@ -1,10 +1,12 @@
 /*
  * Write A Java Program to print common elements between two arrays?
  */
-package arrayInterviewQuestions;
+package com.dharnish.arrays;
 
-public class Program15 {
-	public static void main(String[] args) {
+public class Program14
+{
+	public static void main(String[] args) 
+	{
 		int[] arr1= {10,20,30,40,50,60,70,80};
 		int[] arr2= {10,20,30,60,70,90,100,200};
 		for(int i=0;i<arr1.length;i++)
