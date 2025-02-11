@@ -1,8 +1,8 @@
-package arrayInterviewQuestions;
+package com.dharnish.arrays;
 
 import java.util.Scanner;
 
-public class Program14 
+public class Program13
 {
 	public static void main(String[] args) 
 	{
