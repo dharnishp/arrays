@@ -1,7 +1,10 @@
+/*
+Write A Java Program to print all even & odd elements of an array ?
+*/
+
 package com.dharnish.arrays;
 
 import java.util.Scanner;
-
 public class Program13
 {
 	public static void main(String[] args) 
