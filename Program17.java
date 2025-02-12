@@ -1,11 +1,11 @@
 /*
  * Write A Java Program to print even position(index) and odd position(index) elements of an array ? 
  */
-package arrayInterviewQuestions;
+package arrays;
 
 import java.util.Scanner;
 
-public class Program17 
+public class Program16 
 {
 	public static void main(String[] args) 
 	{
