@@ -4,7 +4,7 @@ Write A Java Program to Merge two arrays?
 
 package com.dharnish.arrays;
 
-public class Program16 {
+public class Program15 {
 	public static void main(String[] args) {
 		int[] arr1={10,20,30,40,50};
 		int[] arr2={1000,500,100,200,300};
