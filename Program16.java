@@ -1,4 +1,6 @@
-package arrayInterviewQuestions;
+
+
+package com.dharnish.arrays;
 
 public class Program16 {
 	public static void main(String[] args) {
