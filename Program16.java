@@ -1,7 +1,7 @@
 /*
  * Write A Java Program to print even position(index) and odd position(index) elements of an array ? 
  */
-package arrays;
+package com.dharnish.arrays;
 
 import java.util.Scanner;
 
