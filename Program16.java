@@ -1,4 +1,6 @@
-
+/*
+Write A Java Program to Merge two arrays?
+*/
 
 package com.dharnish.arrays;
 
