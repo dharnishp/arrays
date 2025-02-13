@@ -1,7 +1,11 @@
+/*
+Write A Java Program to count the number of even & odd elements of an array?
+*/
+
 package com.dharnish.arrays;
 
 import java.util.Scanner;
-public class Program18
+public class Program17
 {
 	public static void main(String[] args) 
 	{
