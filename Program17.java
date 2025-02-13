@@ -1,7 +1,6 @@
-package arrayInterviewQuestions;
+package com.dharnish.arrays;
 
 import java.util.Scanner;
-
 public class Program18
 {
 	public static void main(String[] args) 
