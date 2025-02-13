@@ -1,14 +1,13 @@
 /*
  * Write A Java Program to find 2nd largest ,3rd largest and 2nd smallest , 3rd Smallest elements of an array ?
  */
-package arrayInterviewQuestions;
+
+package com.dharnish.arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
-public class Program19 
+public class Program18
 {
-
 	public static void main(String[] args) 
 	{
 		Scanner scn=new Scanner(System.in);
