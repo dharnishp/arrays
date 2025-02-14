@@ -6,9 +6,8 @@ package arrayInterviewQuestions;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Program20
+public class Program19
 {
-
 	public static void main(String[] args) 
 	{
 		Scanner scn=new Scanner(System.in);
