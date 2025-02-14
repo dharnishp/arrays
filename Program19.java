@@ -2,7 +2,7 @@
 Write A Java Program to find Kth maximum and minimum element of an array?
 */
 
-package arrayInterviewQuestions;
+package com.dharnish.arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
